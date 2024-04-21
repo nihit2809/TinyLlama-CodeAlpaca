@@ -45,7 +45,7 @@ Ensure that you have Python 3.x installed along with the required libraries list
 
 ## Contributors
 
-- [Nihit Agarwal] - [nihit6129@gmail.com]
+- Nihit Agarwal - nihit6129@gmail.com
 
 ## License
 
