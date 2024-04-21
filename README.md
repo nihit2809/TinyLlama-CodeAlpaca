@@ -49,7 +49,7 @@ Ensure that you have Python 3.x installed along with the required libraries list
 
 ## License
 
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+This project is licensed under the Apache-2.0 license - see the LICENSE.md file for details.
 
 Feel free to reach out with any questions or suggestions!
 
