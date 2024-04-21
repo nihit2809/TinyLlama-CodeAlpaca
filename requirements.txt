@@ -1,0 +1,8 @@
+torch
+transformers
+fastapi
+pydantic
+peft 
+trl
+huggingface
+datasets
